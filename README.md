@@ -1,5 +1,5 @@
 <h1 align='center'>
-<img src="https://github.com/AHMRezaul/BMI-Calculator/blob/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="200" height="200">
+<img src="https://github.com/AHMRezaul/BMI-Calculator/blob/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="200" height="200">
 <br> BMI Calculator 💪 </br>
 </h1>
 
